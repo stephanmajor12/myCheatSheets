@@ -64,6 +64,10 @@ killall *name* - kill all processes with names beginning *name*
 ```
 SSH username@ip-address or hostname - login into a remote linux machine
 Ping hostname="" or ="" - pings host
+Ssh-keygen -t ed25519 -C your@email.com - sends you an ssh key
+Scp myfile.txt user@dest:/path - uploads a file to the server
+Scp user@dest:/path/myfile.txt locapath - downloads file
+Git clone git@github.com:examplerepo – clones a github repo into current dir.
 ```
 
-###
+End!
