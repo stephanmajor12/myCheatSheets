@@ -4,7 +4,11 @@
 
 ## Go
 - [Directory](https://github.com/stephanmajor12/myCheatSheets/blob/main/Linux-Commands/linuxCheatSheet.md#directory-commands)
-
+- [Disk Management](https://github.com/stephanmajor12/myCheatSheets/blob/main/Linux-Commands/linuxCheatSheet.md#disk-management)
+- [File Permissions](https://github.com/stephanmajor12/myCheatSheets/blob/main/Linux-Commands/linuxCheatSheet.md#file-permission-numbers)
+- [Vim Reference](https://github.com/stephanmajor12/myCheatSheets/blob/main/Linux-Commands/linuxCheatSheet.md#vim-quick-ref)
+- [Process Management](https://github.com/stephanmajor12/myCheatSheets/blob/main/Linux-Commands/linuxCheatSheet.md#process-management)
+- [NetWorking](https://github.com/stephanmajor12/myCheatSheets/blob/main/Linux-Commands/linuxCheatSheet.md#networking)
 ### Directory Commands ###
 
 ```
