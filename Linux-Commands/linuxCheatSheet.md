@@ -2,6 +2,9 @@
 
 ## Getting Started ##
 
+## Go
+- [Directory](https://github.com/stephanmajor12/myCheatSheets/blob/main/Linux-Commands/linuxCheatSheet.md#directory-commands)
+
 ### Directory Commands ###
 
 ```linux
